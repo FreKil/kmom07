@@ -22,7 +22,7 @@ $html = <<<input
 	<h1>Redovisning av kursmomenten</h1>
 	
 		<article>
-		<h2>Kmom05: Innehåll</h2>
+		<h2>Kmom07: Färdigställ och produktifiera ramverket</h2>
 		<p>
 			<b>Vad tyckte du om att göra ramverket “självdokumenterande”? </b><br />
 			Gillar möjligheten att rada upp hur en vad en klass innehåller och hur funktionerna fungerar utan att nödvändigtvis behöva gå igenom hela filen. Är så mycket lättare att snabbt få en överblick vad en klass är kapabel till. 
